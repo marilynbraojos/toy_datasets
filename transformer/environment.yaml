@@ -1,0 +1,8 @@
+name: toy_transformer
+channels: 
+- defaults
+- pytorch
+dependencies: 
+- numpy 
+- matplotlib
+- pytorch
